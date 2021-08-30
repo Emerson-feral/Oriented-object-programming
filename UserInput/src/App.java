@@ -12,6 +12,6 @@ public class App {
         String lastName = input.next();
 
         System.out.println("Welcome " + firstName + " " + lastName);
-
+        
     }
 }
