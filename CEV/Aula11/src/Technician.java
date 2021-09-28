@@ -3,6 +3,7 @@ public class Technician extends Student {
     private Integer professionalRegister;
     
     public void practice(){
+        
         System.out.println(this.getName() + " is practicing");
     }
 

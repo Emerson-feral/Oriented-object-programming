@@ -4,6 +4,7 @@ public class Student extends People{
     private String course;
 
     public void monthlyPay(){
+        
         System.out.println(this.getName() + " Student debt payed");
     }
 

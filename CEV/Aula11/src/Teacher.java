@@ -4,6 +4,7 @@ public class Teacher extends People {
     private Float salary;
 
     public void salatyRaise(Integer raise){
+        
         this.setSalary(this.getSalary() + raise);
     }
 

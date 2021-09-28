@@ -3,6 +3,7 @@ public class Scholarship extends Student {
     private Float scholarship;
 
     public void renewScholarship(){
+        
         System.out.println("The scholarship of " + this.getName() + " was renewed");
     }
 

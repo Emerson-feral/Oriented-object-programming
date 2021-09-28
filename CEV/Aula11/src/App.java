@@ -5,6 +5,7 @@ public class App {
         visitor1.setName("Emerson");
         visitor1.setAge(28);
         visitor1.setGender("Male");
+        
         System.out.println(visitor1.toString());
 
         Student student1 = new Student();
